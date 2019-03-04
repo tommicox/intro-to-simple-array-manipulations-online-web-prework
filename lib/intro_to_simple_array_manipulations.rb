@@ -1,5 +1,5 @@
 def using_push(countries_in_western_africa)
   countries_in_western_africa = ["Benin", "Carpe Verde", "Gambia", "Liberia", "Mali"]
-  puts using_push
-  countries_in_western_africa.pusH
+  puts using_push(countries_in_western_africa, "Niger")
+  countries_in_western_africa.push
  end
